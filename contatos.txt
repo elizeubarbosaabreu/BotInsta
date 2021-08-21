@@ -1,0 +1,5 @@
+contato1
+contato2
+contato3
+contato4
+>>> digite um nome de usuario do instagram por linha sem usar @
